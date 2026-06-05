@@ -1,0 +1,7 @@
+image_path,true_label,predicted_label,correct
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/R/R_7389.jpg,R,R,True
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/O/O_9952.jpg,O,O,True
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/R/R_1319.jpg,R,R,True
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/R/R_5512.jpg,R,R,True
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/R/R_1368.jpg,R,R,True
+/kaggle/input/datasets/techsash/waste-classification-data/DATASET/TRAIN/R/R_4041.jpg,R,R,True
